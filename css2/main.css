@@ -2114,7 +2114,12 @@ a.menu-toggle {
 .cta-content .stores li:last-child .button {
 	margin-right: 0;
 }
-
+.col-two a {
+    font-size: 24px;
+}
+.footer-subscribe p {
+    font-size: 27px;
+}
 /**
  * responsive:
  * cta
